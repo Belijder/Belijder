@@ -21,7 +21,7 @@ collected.
 
 Used: Swift, SwiftUI, MVVM design pattern
 
-Link to the repository: https://github.com/Belijder/DiceGame_remote
+Link to the repository: [HERE](https://github.com/Belijder/DiceGame_remote)
 
 ##
 
