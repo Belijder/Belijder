@@ -11,7 +11,7 @@ An application that uses the TMDB database, which allows users to browse, search
 
 Used: Swift, SwiftUI, Swift Concurrency, Combine, Core Data, REST API, MVVM, Dependency injection
 
-Link to the repository: [HERE](https://github.com/Belijder/TheMovieApp)
+Link to the repository: [HERE](https://github.com/Belijder/TheMovie_App)
 
 ##
 
