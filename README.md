@@ -26,7 +26,7 @@ Link to the repository: [HERE](https://github.com/Belijder/DiceGame_remote)
 ##
 
 I am currently starting a new project in which I am also using Firebase,
-MapKit and the conversion from UIKit to SwiftUI.
+MapKit and UIKit.
 
 
 
