@@ -28,7 +28,7 @@ Link to the repository: [HERE](https://github.com/Belijder/TheMovie_App)
 
 ##
 
-### The Dice Game
+### YahtzeeMobile
 A digital version of the popular ancient game for 2-4 players, where players toss five cubic dice to obtain certain combinations for which points are
 collected.
 
