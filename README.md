@@ -29,8 +29,7 @@ Link to the repository: [HERE](https://github.com/Belijder/TheMovie_App)
 ##
 
 ### YahtzeeMobile
-A digital version of the popular ancient game for 2-4 players, where players toss five cubic dice to obtain certain combinations for which points are
-collected.
+A digital version of the popular classic dice game for 1–4 players, where users toss five cubic dice to obtain certain combinations for which they are collecting points.
 
 Used: Swift, SwiftUI, MVVM design pattern
 
