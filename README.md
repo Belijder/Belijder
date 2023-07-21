@@ -1,6 +1,6 @@
 👋 Hi, I’m Jakub Zajda aka @Belijder
 
-I possess over two years of hands-on experience in software development for iOS. One of my greatest assets lies in my aptitude for rapid learning, allowing me to quickly grasp new concepts, technologies, and frameworks. Coupled with my highly developed communication skills, I excel in conveying complex ideas in a concise and articulate manner. Seeking an engaging position where I can continue to evolve as a professional, I offer a strong work ethic, adaptability, and a relentless pursuit of excellence.
+I have over two years of hands-on experience in software development for iOS. One of my greatest assets lies in my aptitude for rapid learning, allowing me to quickly grasp new concepts, technologies, and frameworks. Coupled with my highly developed communication skills, I excel in conveying complex ideas in a concise and articulate manner. I'm seeking an engaging position where I can continue to evolve as a professional. I offer a strong work ethic, adaptability, and a relentless pursuit of excellence.
 
 ## experience
 Right now I have three apps in my portfolio, all are available for download in the AppStore. These are applications that were written 100% by me from the start. They are not projects created during boodcamp learning or a tutorial clone.
