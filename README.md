@@ -1,9 +1,20 @@
 👋 Hi, I’m Jakub Zajda aka @Belijder
 
-I have over two years of hands-on experience in software development for iOS. One of my greatest assets lies in my aptitude for rapid learning, allowing me to quickly grasp new concepts, technologies, and frameworks. Coupled with my highly developed communication skills, I excel in conveying complex ideas in a concise and articulate manner. I'm seeking an engaging position where I can continue to evolve as a professional. I offer a strong work ethic, adaptability, and a relentless pursuit of excellence.
+I am a versatile software developer with over two years of hands-on experience in both iOS and Flutter app development. My expertise extends to a wide range of technologies and frameworks. What sets me apart is my innate ability to rapidly acquire new skills, which allows me to stay up to date with new technologies in the field of mobile app development.
+
+My strength lies not only in my technical proficiency but also in my exceptional communication skills. This skills facilitates effective collaboration within cross-functional teams and ensures that project goals are met with precision.
+
+In addition to my iOS development background, I bring to the table a strong proficiency in Flutter. I've successfully leveraged the Flutter framework to create cross-platform applications, providing users with seamless experiences across multiple devices and platforms.
+
+I am currently seeking an engaging position that will allow me to continue my professional growth and further refine my skills. I am driven by a strong work ethic, adaptability to evolving industry trends, and an unwavering commitment to achieving excellence in every project I undertake.
+
+## currently working on
+I'm currently immersed in the development of "Planted", a cross-platform mobile application that's all about connecting people who are passionate about ecology and the joy of sharing. With Planted, users can effortlessly post listings for plant seedlings they'd like to give away for free, fostering a vibrant community of green enthusiasts. It's an exciting project that combines my Flutter development skills to create a platform that promotes eco-friendly practices and sustainable living. Stay tuned for updates on this green journey!
+
+[Link to the repository](https://github.com/Belijder/Planted)
 
 ## experience
-Right now I have three apps in my portfolio, all are available for download in the AppStore. These are applications that were written 100% by me from the start. They are not projects created during boodcamp learning or a tutorial clone.
+Currently, my portfolio boasts three distinct apps, all readily accessible for download on the AppStore. Each of these applications represents a testament to my independent development prowess, as I personally conceived, designed, and crafted them from the ground up. These are not mere tutorial-based or bootcamp projects but fully realized, standalone creations.
 
 ##
 
