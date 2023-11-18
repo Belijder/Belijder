@@ -1,6 +1,6 @@
 👋 Hi, I’m Jakub Zajda aka @Belijder
 
-I am a versatile software developer with over two years of hands-on experience in both iOS and Flutter app development. My expertise extends to a wide range of technologies and frameworks. What sets me apart is my innate ability to rapidly acquire new skills, which allows me to stay up to date with new technologies in the field of mobile app development.
+I am a versatile software developer with experience in both iOS and Flutter app development. My expertise extends to a wide range of technologies and frameworks. What sets me apart is my innate ability to rapidly acquire new skills, which allows me to stay up to date with new technologies in the field of mobile app development.
 
 My strength lies not only in my technical proficiency but also in my exceptional communication skills. This skills facilitates effective collaboration within cross-functional teams and ensures that project goals are met with precision.
 
